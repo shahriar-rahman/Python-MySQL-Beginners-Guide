@@ -6,8 +6,8 @@
 
 <br/><br/>
 
-# Installation
-## ◘ Software Specification
+## Installation
+### ◘ Software Specification
 * Python~=3.11.3
 * IPython : 8.10.0
 * ipykernel : 6.19.2
@@ -16,7 +16,7 @@
 
 <br/>
 
-## ◘ Downloading MySQL
+### ◘ Downloading MySQL
 * MySQL can be downloaded from the following link: <br/>
 [Download MySQL for Python](https://dev.mysql.com/downloads/mysql/) 
 * Additionally, the MySQL workbench can be downloaded as well:  <br/>
@@ -24,7 +24,7 @@
 
 <br/>
 
-## ◘ Installing MySQL
+### ◘ Installing MySQL
 For the database to function, Python requires a MySQL driver to access the MySQL database. In order to install the Python-mysql-connector module, PIP and Python must be preinstalled. Afterward, run the below command in the terminal.
 ```
 > pip install mysql-connector-python
