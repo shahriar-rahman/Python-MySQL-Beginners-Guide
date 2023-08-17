@@ -52,3 +52,12 @@ Therefore, the output will be displayed as follows:
 <mysql.connector.connection.MySQLConnection object at 0x000002653D8DF3A0>
 
 ```
+
+### ◘ Supplementary Resources
+* https://jupyter.org/
+* https://pypi.org/project/mysql/
+* https://pypi.org/project/mysql-connector-python/
+
+
+
+
