@@ -7,6 +7,13 @@
 <br/><br/>
 
 # Installation
+## ◘ Software Specification
+* Python~=3.11.3
+* IPython : 8.10.0
+* ipykernel : 6.19.2
+* jupyter_client : 7.3.4
+* jupyter_server : 1.23.4
+
 ## ◘ Downloading MySQL
 * MySQL can be downloaded from the following link: <br/>
 [Download MySQL for Python](https://dev.mysql.com/downloads/mysql/) 
