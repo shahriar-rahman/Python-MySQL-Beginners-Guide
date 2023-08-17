@@ -7,23 +7,23 @@
 <br/><br/>
 
 # Installation
-## ◘ installing MySQL
+## ◘ Installing MySQL
 For the database to function, Python requires a MySQL driver to access the MySQL database. In order to install the Python-mysql-connector module, PIP and Python must be preinstalled. Afterward, run the below command in the terminal.
 ```
 > pip install mysql-connector-python
 ```
 Then, the MySQL server can be connected using the *connect()* function. The code below illustrates a proper testing of the MySQL connection: 
 ```py3
-# importing required libraries
+# Importing all the required libraries
 import mysql.connector
   
-dataBase = mysql.connector.connect(
+db = mysql.connector.connect(
   host ="localhost",
   user ="user",
   password ="password"
 )
  
-print(dataBase)
+print(db)
   
 # Disconnecting from the server
 dataBase.close()
