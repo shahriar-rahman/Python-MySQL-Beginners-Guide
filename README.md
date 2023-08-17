@@ -7,6 +7,14 @@
 <br/><br/>
 
 # Installation
+## ◘ Downloading MySQL
+MySQL can be downloaded from the following site:
+`https://dev.mysql.com/downloads/mysql/`
+Additionally, MySQL workbench can also be downloaded:
+`https://dev.mysql.com/downloads/workbench/`
+
+<br/>
+
 ## ◘ Installing MySQL
 For the database to function, Python requires a MySQL driver to access the MySQL database. In order to install the Python-mysql-connector module, PIP and Python must be preinstalled. Afterward, run the below command in the terminal.
 ```
