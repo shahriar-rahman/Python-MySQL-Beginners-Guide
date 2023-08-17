@@ -8,10 +8,21 @@
 
 # Installation
 ## ◘ Downloading MySQL
-MySQL can be downloaded from the following site: <br/>
-`https://dev.mysql.com/downloads/mysql/`.  <br/>
-Additionally, MySQL workbench can also be downloaded:  <br/>
-`https://dev.mysql.com/downloads/workbench/`  <br/>
+MySQL can be downloaded from the following link: 
+
+<br/>
+
+[Download MySQL for Python](https://dev.mysql.com/downloads/mysql/).  
+
+<br/>
+
+Additionally, the MySQL workbench can be downloaded as well:  
+
+<br/>
+
+[Download MySQL Workbench](https://dev.mysql.com/downloads/workbench/)  
+
+<br/>
 
 <br/>
 
