@@ -22,17 +22,22 @@ For the database to function, Python requires a MySQL driver to access the MySQL
 ```
 Then, the MySQL server can be connected using the *connect()* function. The code below illustrates a proper testing of the MySQL connection: 
 ```py3
-# Importing all the required libraries
+# Importing required libraries
 import mysql.connector
   
 db = mysql.connector.connect(
   host ="localhost",
   user ="user",
-  password ="password"
+  password ="user"
 )
  
 print(db)
   
 # Disconnecting from the server
-dataBase.close()
+db.close()
+```
+Therefore, the output will be displayed as follows:
+```
+<mysql.connector.connection.MySQLConnection object at 0x000002653D8DF3A0>
+
 ```
