@@ -12,7 +12,7 @@ For the database to function, Python requires a MySQL driver to access the MySQL
 ```
 > pip install mysql-connector-python
 ```
-
+Then, the MySQL server can be connected using the *connect()* function. The code below illustrates a proper testing of the MySQL connection: 
 ```py3
 # importing required libraries
 import mysql.connector
