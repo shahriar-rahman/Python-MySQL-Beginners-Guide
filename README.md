@@ -53,6 +53,8 @@ Therefore, the output will be displayed as follows:
 
 ```
 
+<br/>
+
 ### ◘ Supplementary Resources
 * https://jupyter.org/
 * https://pypi.org/project/mysql/
