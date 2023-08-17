@@ -59,6 +59,8 @@ Therefore, the output will be displayed as follows:
 * https://jupyter.org/
 * https://pypi.org/project/mysql/
 * https://pypi.org/project/mysql-connector-python/
+* https://dev.mysql.com/downloads/mysql/
+* https://dev.mysql.com/downloads/workbench/
 
 <br/><br/>
 
