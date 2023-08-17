@@ -14,6 +14,8 @@
 * jupyter_client : 7.3.4
 * jupyter_server : 1.23.4
 
+<br/>
+
 ## ◘ Downloading MySQL
 * MySQL can be downloaded from the following link: <br/>
 [Download MySQL for Python](https://dev.mysql.com/downloads/mysql/) 
