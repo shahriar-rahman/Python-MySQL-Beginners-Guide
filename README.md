@@ -27,7 +27,11 @@ For the database to function, Python requires a MySQL driver to access the MySQL
 ```
 > !{sys.executable} -m pip install mysql-connector-python
 ```
-Lastly, the MySQL server can be connected using the *connect()* function. Note that the *username* and *password* fields are user-defined. The code below illustrates proper evaluation procedure of the MySQL connection: 
+
+<br/>
+
+### ◘ Connection Evaluation
+The MySQL server can be connected using the *connect()* function. Note that the *username* and *password* fields are user-defined. The code below illustrates a proper evaluation procedure for the MySQL connection: 
 ```py3
 # Importing required libraries
 import mysql.connector
