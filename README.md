@@ -37,7 +37,7 @@ print(db)
 db.close()
 ```
 Therefore, the output will be displayed as follows:
-```
+```py3
 <mysql.connector.connection.MySQLConnection object at 0x000002653D8DF3A0>
 
 ```
