@@ -7,10 +7,10 @@
 <br/><br/>
 
 ## Installation
-### ◘ Software Specification
-* Python~=3.11.3
-* jupyter~=1.0.0
-* mysql-connector-python~=8.1.0
+### ◘ Software and Package Specification
+* **Python**~=3.11.3
+* **jupyter**~=1.0.0
+* **mysql-connector-python**~=8.1.0
 
 <br/>
 
