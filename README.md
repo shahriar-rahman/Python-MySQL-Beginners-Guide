@@ -23,11 +23,11 @@
 <br/>
 
 ### ◘ Installing MySQL
-For the database to function, Python requires a MySQL driver to access the MySQL database. In order to install the Python-mysql-connector module, PIP and Python must be preinstalled. Afterward, run the below command in the terminal. In Jupyter, the console commands can be executed by the ‘!’ sign before the command within the cell. To install any modules effectively, the *sys* python package is imported `import sys`. Next the following command is used to confirm the installation, 
+For the database to function, Python requires a MySQL driver to access the MySQL database. In order to install the *Python-mysql-connector* module, **pip** and **Python** must be preinstalled. In **Jupyter Notebook**, the console commands can be executed by the *‘!’* sign before the command within the cell. To install any modules effectively, the *sys* python package is imported `import sys`. Next, the following command is used to confirm the installation:
 ```
 > !{sys.executable} -m pip install mysql-connector-python
 ```
-Then, the MySQL server can be connected using the *connect()* function. Note that the *username* and *password* fields are user-defined. The code below illustrates proper evaluation procedure of the MySQL connection: 
+Lastly, the MySQL server can be connected using the *connect()* function. Note that the *username* and *password* fields are user-defined. The code below illustrates proper evaluation procedure of the MySQL connection: 
 ```py3
 # Importing required libraries
 import mysql.connector
