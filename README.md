@@ -9,10 +9,8 @@
 ## Installation
 ### ◘ Software Specification
 * Python~=3.11.3
-* IPython : 8.10.0
-* ipykernel : 6.19.2
-* jupyter_client : 7.3.4
-* jupyter_server : 1.23.4
+* jupyter~=1.0.0
+* mysql-connector-python~=8.1.0
 
 <br/>
 
