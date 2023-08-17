@@ -52,6 +52,7 @@ Therefore, the output will be displayed as follows:
 <mysql.connector.connection.MySQLConnection object at 0x000002653D8DF3A0>
 
 ```
+A more thorough approach, including all the codes and installation, can be explored [here](https://github.com/shahriar-rahman/Python-MySQL-Beginners-Guide/blob/main/notebooks/1-Test-Connection.ipynb).
 
 <br/>
 
