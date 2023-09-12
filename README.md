@@ -1,4 +1,5 @@
 # Python MySQL Beginners Guide
+A beginner's guide to MySql database and its intermediate functionalities.
 
 <br/>
 
