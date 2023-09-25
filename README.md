@@ -1,4 +1,4 @@
-# Python MySQL Beginners Guide
+# Python MySQL and SQLite Beginners Guide
 
 <br/><br/>
 
